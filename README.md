@@ -9,18 +9,19 @@ Welcome to my GitHub profile! I'm Yerkebulan, a dedicated Software and Web Devel
 ### 🚀 **Skills & Technologies**
 Here are some of the technologies I'm proficient in:
 
-<table style="width: 100%; border-collapse: collapse;">
+<!-- Skills Table -->
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
 
   <!-- Header Row: Category Titles -->
-  <tr>
-    <td style="text-align: center; font-weight: bold; width: 33%;">Backend Development</td>
-    <td style="text-align: center; font-weight: bold; width: 33%;">Frontend Development</td>
-    <td style="text-align: center; font-weight: bold; width: 33%;">DevOps & Cloud</td>
+  <tr style="background-color: #f0f0f0; text-align: center; font-weight: bold; color: #333; font-size: 16px;">
+    <td style="width: 33%; padding: 10px;">Backend Development</td>
+    <td style="width: 33%; padding: 10px;">Frontend Development</td>
+    <td style="width: 33%; padding: 10px;">DevOps & Cloud</td>
   </tr>
 
   <!-- Row 1: Icons for each category -->
-  <tr>
-    <td style="text-align: center;">
+  <tr style="text-align: center;">
+    <td style="padding: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP">
@@ -28,7 +29,7 @@ Here are some of the technologies I'm proficient in:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" alt="Go">
     </td>
-    <td style="text-align: center;">
+    <td style="padding: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React">
@@ -37,7 +38,7 @@ Here are some of the technologies I'm proficient in:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap">
     </td>
-    <td style="text-align: center;">
+    <td style="padding: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub">
@@ -47,24 +48,24 @@ Here are some of the technologies I'm proficient in:
   </tr>
 
   <!-- Row 2: Category Descriptions (e.g., Messaging & Queue Systems, Databases) -->
-  <tr>
-    <td style="text-align: center; font-weight: bold;">Messaging & Queue Systems</td>
-    <td style="text-align: center; font-weight: bold;">Database Technologies</td>
-    <td style="text-align: center; font-weight: bold;"></td> <!-- Empty cell for spacing -->
+  <tr style="background-color: #f0f0f0; text-align: center; font-weight: bold;">
+    <td style="padding: 10px;">Messaging & Queue Systems</td>
+    <td style="padding: 10px;">Database Technologies</td>
+    <td style="padding: 10px;"></td> <!-- Empty cell for spacing -->
   </tr>
 
-  <tr>
-    <td style="text-align: center;">
+  <tr style="text-align: center;">
+    <td style="padding: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis">
     </td>
-    <td style="text-align: center;">
+    <td style="padding: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis">
     </td>
-    <td style="text-align: center;"></td> <!-- Empty cell for spacing -->
+    <td style="padding: 10px;"></td> <!-- Empty cell for spacing -->
   </tr>
 
 </table>
@@ -100,3 +101,38 @@ I'm constantly learning and improving. My current focus areas are:
 - Expanding my knowledge of data engineering tools and methodologies.
 
 Looking forward to building amazing things together! 👨‍💻
+
+---
+
+### 📊 **GitHub Contribution Stats**
+
+Here are some stats based on my GitHub activity:
+
+- **Number of commits**: `<Replace_with_GitHub_API_call>`
+- **Top programming languages**: `<Replace_with_GitHub_API_call>`
+
+---
+
+### 📱 **GitHub Stats (Dynamic)**:
+To display the number of commits or top languages directly, you would need to use GitHub's API. Here's how you could fetch the stats programmatically:
+
+```javascript
+fetch('https://api.github.com/users/Yerkebulan/repos')
+  .then(response => response.json())
+  .then(data => {
+    let totalCommits = 0;
+    let languages = {};
+
+    data.forEach(repo => {
+      fetch(repo.languages_url)
+        .then(langResponse => langResponse.json())
+        .then(langs => {
+          Object.keys(langs).forEach(lang => {
+            languages[lang] = (languages[lang] || 0) + langs[lang];
+          });
+        });
+    });
+
+    console.log('Total commits:', totalCommits);
+    console.log('Languages used:', languages);
+  });
