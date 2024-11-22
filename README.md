@@ -103,12 +103,3 @@ I'm constantly learning and improving. My current focus areas are:
 Looking forward to building amazing things together! 👨‍💻
 
 ---
-
-### 📊 **GitHub Contribution Stats**
-
-Here are some stats based on my GitHub activity:
-
-- **Number of commits**: `<Replace_with_GitHub_API_call>`
-- **Top programming languages**: `<Replace_with_GitHub_API_call>`
-
----
