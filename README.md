@@ -113,26 +113,13 @@ Here are some stats based on my GitHub activity:
 
 ---
 
-### 📱 **GitHub Stats (Dynamic)**:
-To display the number of commits or top languages directly, you would need to use GitHub's API. Here's how you could fetch the stats programmatically:
+### 📊 **GitHub Stats**
 
-```javascript
-fetch('https://api.github.com/users/Yerkebulan/repos')
-  .then(response => response.json())
-  .then(data => {
-    let totalCommits = 0;
-    let languages = {};
+Here are some stats based on my GitHub activity:
 
-    data.forEach(repo => {
-      fetch(repo.languages_url)
-        .then(langResponse => langResponse.json())
-        .then(langs => {
-          Object.keys(langs).forEach(lang => {
-            languages[lang] = (languages[lang] || 0) + langs[lang];
-          });
-        });
-    });
+<!-- GitHub Stats Card -->
+![Yerkebulan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yerkebulan&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-    console.log('Total commits:', totalCommits);
-    console.log('Languages used:', languages);
-  });
+<!-- Most Used Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yerkebulan&layout=compact&theme=radical)
+
