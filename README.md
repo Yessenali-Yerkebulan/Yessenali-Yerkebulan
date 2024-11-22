@@ -51,7 +51,7 @@ Here are some of the technologies I'm proficient in:
   <tr style="background-color: #f0f0f0; text-align: center; font-weight: bold;">
     <td style="padding: 10px;">Messaging & Queue Systems</td>
     <td style="padding: 10px;">Database Technologies</td>
-    <td style="padding: 10px;"></td> <!-- Empty cell for spacing -->
+    <td style="padding: 10px;">Mobile Development</td> <!-- Empty cell for spacing -->
   </tr>
 
   <tr style="text-align: center;">
@@ -65,7 +65,9 @@ Here are some of the technologies I'm proficient in:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch">
     </td>
-    <td style="padding: 10px;"></td> <!-- Empty cell for spacing -->
+        <td style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter">
+    </td>
   </tr>
 
 </table>
