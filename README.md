@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Yerkebulan, a dedicated Software and Web Devel
 ### 🚀 **Skills & Technologies**
 Here are some of the technologies I'm proficient in:
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
 
   <!-- Backend Development -->
   <div style="flex: 1 1 30%; min-width: 280px;">
@@ -62,7 +62,11 @@ Here are some of the technologies I'm proficient in:
     </table>
   </div>
 
-  <!-- Messaging & Queue Systems -->
+</div>
+
+<!-- Messaging & Queue Systems -->
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
+
   <div style="flex: 1 1 30%; min-width: 280px;">
     <h4>Messaging & Queue Systems:</h4>
     <table>
