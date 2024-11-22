@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm Yerkebulan, a dedicated Software and Web Devel
 ### 🚀 **Skills & Technologies**
 Here are some of the technologies I'm proficient in:
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
 
   <!-- Backend Development -->
-  <div>
+  <div style="flex: 1 1 30%; min-width: 300px;">
     <h4>Backend Development:</h4>
     <table>
       <tr>
@@ -29,7 +29,7 @@ Here are some of the technologies I'm proficient in:
   </div>
 
   <!-- Frontend Development -->
-  <div>
+  <div style="flex: 1 1 30%; min-width: 300px;">
     <h4>Frontend Development:</h4>
     <table>
       <tr>
@@ -47,7 +47,7 @@ Here are some of the technologies I'm proficient in:
   </div>
 
   <!-- DevOps & Cloud -->
-  <div>
+  <div style="flex: 1 1 30%; min-width: 300px;">
     <h4>DevOps & Cloud:</h4>
     <table>
       <tr>
@@ -63,7 +63,7 @@ Here are some of the technologies I'm proficient in:
   </div>
 
   <!-- Messaging & Queue Systems -->
-  <div>
+  <div style="flex: 1 1 30%; min-width: 300px;">
     <h4>Messaging & Queue Systems:</h4>
     <table>
       <tr>
@@ -75,7 +75,7 @@ Here are some of the technologies I'm proficient in:
   </div>
 
   <!-- Database Technologies -->
-  <div>
+  <div style="flex: 1 1 30%; min-width: 300px;">
     <h4>Database Technologies:</h4>
     <table>
       <tr>
