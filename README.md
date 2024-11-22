@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm Yerkebulan, a dedicated Software and Web Devel
 ### 🚀 **Skills & Technologies**
 Here are some of the technologies I'm proficient in:
 
+<!-- Skills Table -->
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
 
   <!-- Header Row: Category Titles -->
@@ -46,26 +47,43 @@ Here are some of the technologies I'm proficient in:
     </td>
   </tr>
 
+  <!-- Row 2: Category Descriptions (e.g., Messaging & Queue Systems, Databases) -->
+  <tr style="background-color: #f0f0f0; text-align: center; font-weight: bold;">
+    <td style="padding: 10px;">Messaging & Queue Systems</td>
+    <td style="padding: 10px;">Database Technologies</td>
+    <td style="padding: 10px;"></td> <!-- Empty cell for spacing -->
+  </tr>
+
+  <tr style="text-align: center;">
+    <td style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis">
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch">
+    </td>
+    <td style="padding: 10px;"></td> <!-- Empty cell for spacing -->
+  </tr>
+
 </table>
 
 ---
 
-### 📊 **GitHub Stats**
-
-Here are some stats based on my GitHub activity:
-
-<!-- GitHub Stats Card -->
-![Yerkebulan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yerkebulan&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-<!-- Most Used Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yerkebulan&layout=compact&theme=radical)
+### 🛠 **Current Focus**:
+- **Microservices Architecture**
+- **Cloud-Native Development**
+- **CI/CD Pipeline Automation**
+- **Scalable and High-Performance Applications**
 
 ---
 
-### 📅 **GitHub Contributions**
-
-<!-- GitHub Contribution Graph -->
-![Yerkebulan's GitHub Contribution Graph](https://github.com/Yerkebulan/github-readme-activity-graph/blob/master/graphs/graph.svg)
+### 📈 **Projects I'm Currently Working On**:
+- Building microservices with **Spring Boot** and **Docker**.
+- Developing real-time data streaming applications with **Kafka** and **Redis**.
+- Exploring modern frontend frameworks like **React** and **Vue.js** for dynamic web apps.
 
 ---
 
@@ -73,3 +91,24 @@ Here are some stats based on my GitHub activity:
 Feel free to check out my repositories, open issues, or drop me a message! I'm always open to collaborating on exciting projects.
 
 **GitHub**: [Yerkebulan](https://github.com/Yerkebulan)
+
+---
+
+#### 📚 **Learning & Growth**:
+I'm constantly learning and improving. My current focus areas are:
+- Cloud computing and serverless architectures.
+- Advanced Kubernetes and Docker orchestration.
+- Expanding my knowledge of data engineering tools and methodologies.
+
+Looking forward to building amazing things together! 👨‍💻
+
+---
+
+### 📊 **GitHub Contribution Stats**
+
+Here are some stats based on my GitHub activity:
+
+- **Number of commits**: `<Replace_with_GitHub_API_call>`
+- **Top programming languages**: `<Replace_with_GitHub_API_call>`
+
+---
