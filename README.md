@@ -97,7 +97,7 @@ Here are some of the technologies I'm proficient in:
 ### 📬 **Let's Connect**:
 Feel free to check out my repositories, open issues, or drop me a message! I'm always open to collaborating on exciting projects.
 
-**GitHub**: [Yerkebulan](https://github.com/Yerkebulan)
+**GitHub**: [Yerkebulan](https://github.com/Yessenali-Yerkebulan/Yessenali-Yerkebulan)
 
 ---
 
