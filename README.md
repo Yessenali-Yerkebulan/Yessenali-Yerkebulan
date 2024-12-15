@@ -70,7 +70,6 @@ Here are some of the technologies I'm proficient in:
 ### 📈 **Projects I'm Currently Working On**:
 - Building microservices with **Spring Boot** and **Docker**.
 - Developing real-time data streaming applications with **Kafka** and **Redis**.
-- Exploring modern frontend frameworks like **React** and **Vue.js** for dynamic web apps.
 
 ---
 
