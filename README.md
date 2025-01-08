@@ -14,7 +14,7 @@ Here are some of the technologies I'm proficient in:
 
   <!-- Header Row: Category Titles -->
   <tr style="background-color: #f0f0f0; text-align: center; font-weight: bold; color: #333; font-size: 16px;">
-    <td style="width: 33%; padding: 10px;">Backend Development</td>
+    <td style="width: 33%; padding: 10px;">Development</td>
     <td style="width: 33%; padding: 10px;">DevOps & Cloud</td>
   </tr>
 
@@ -26,6 +26,7 @@ Here are some of the technologies I'm proficient in:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="40" height="40" alt="Scala"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
     </td>
     <td style="padding: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker">
