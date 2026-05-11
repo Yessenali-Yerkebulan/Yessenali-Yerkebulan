@@ -1,52 +1,70 @@
 ## 👋 Привет, я Еркебулан
 
-### Software / Web Developer | Люблю код и решать задачи 💻
+### 💻 Software / Web Developer | Люблю код и решаю сложные задачи
 
 Добро пожаловать в мой GitHub!  
-Я Еркебулан, увлечённый разработчик, который создаёт масштабируемые, эффективные и современные решения.  
-Мои интересы: бэкенд, фронтенд, облачные технологии и современные процессы разработки.
+Меня зовут **Еркебулан**, я создаю **масштабируемые**, **эффективные** и **современные** веб-приложения.  
+Моя страсть — backend, frontend, облачные технологии и чистый код.
 
 ---
 
-### 🚀 **Навыки и технологии**
+### 🚀 Мои технологии
 
-| **Разработка** | **DevOps & Облака** |
-|:---:|:---:|
-| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)  ![Scala](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg)  ![Kotlin](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg)  ![GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg)  ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg) | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)  ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)  ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)  ![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg)  ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)  ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg) |
+<div align="center">
 
-| **Брокеры сообщений** | **Базы данных** |
-|:---:|:---:|
-| ![Kafka](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg)  ![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)  ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg)  ![Elasticsearch](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg)  ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg) |
+#### 🧠 Языки и фреймворки
+| | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> |
+| **Java** | **Spring** | **Scala** | **Kotlin** | **GraphQL** | **Angular** |
+
+#### ☁️ DevOps и облака
+| | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> |
+| **Docker** | **K8s** | **GitHub** | **GitLab** | **Linux** | **Bash** |
+
+#### 📨 Брокеры сообщений
+| | | |
+|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> |
+| **Kafka** | **Redis** |
+
+#### 🗄️ Базы данных
+| | | | |
+|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.15));"/> |
+| **PostgreSQL** | **MySQL** | **Elasticsearch** | **MongoDB** |
+
+</div>
 
 ---
 
 ### 🛠 **Сейчас в фокусе**
-- Микросервисная архитектура  
-- Облачная разработка (Cloud‑Native)  
-- Автоматизация CI/CD  
-- Высокопроизводительные и масштабируемые приложения
+- 🏗️ Микросервисная архитектура  
+- ☁️ Cloud‑Native разработка  
+- ⚡ CI/CD автоматизация  
+- 🚀 Высокопроизводительные приложения
 
 ---
 
-### 📈 **Проекты над которыми работаю**
-- Строю микросервисы на **Spring Boot** + **Docker**  
-- Разрабатываю стриминговые приложения в реальном времени с **Kafka** и **Redis**
+### 📈 **Актуальные проекты**
+- ✅ Микросервисы на **Spring Boot** + **Docker**  
+- 📡 real‑time стриминг с **Kafka** и **Redis**
 
 ---
 
-### 📬 **Связь со мной**
-Заглядывайте в репозитории, создавайте issue или просто напишите — я всегда открыт для крутых совместных проектов.
-
-**GitHub**: [Yerkebulan](https://github.com/Yessenali-Yerkebulan/Yessenali-Yerkebulan)
+### 📬 **Связаться со мной**
+[![GitHub](https://img.shields.io/badge/GitHub-Yerkebulan-181717?style=for-the-badge&logo=github)](https://github.com/Yessenali-Yerkebulan/Yessenali-Yerkebulan)
+[![Gmail](https://img.shields.io/badge/Gmail-Написать%20письмо-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
 
-### 📚 **Обучение и рост**
-Постоянно учусь новому. Сейчас в фокусе:
-- Облачные вычисления и serverless‑архитектуры  
-- Продвинутая оркестрация Kubernetes / Docker  
-- Инструменты и подходы Data Engineering
+### 📚 **Постоянное развитие**
+- 🌐 Cloud & Serverless  
+- 🐳 Продвинутая оркестрация (K8s, Docker)  
+- 📊 Data Engineering инструменты
 
-С нетерпением жду возможности создавать что‑то классное вместе! 👨‍💻
+**Открыт для коллабораций и интересных идей!** 👨‍💻
 
 ---
