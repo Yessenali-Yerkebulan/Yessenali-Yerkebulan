@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Yerkebulan;Solo+Software+Developer;Crafting+Scalable+%26+Efficient+Systems;C+++%7C+Java+%7C+Kotlin+%7C+Go+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Yerkebulan;Solo+Software+Developer;Crafting+Scalable+Systems;C+++%7C+Java+%7C+Kotlin+%7C+Go+%7C+Python;Hardware+%26+Game+Dev+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <p>
-    <strong>Independent Software Developer</strong> passionate about building robust, high-performance applications and solving complex architectural challenges. I believe in clean code, continuous learning, and turning ideas into scalable reality.
+    <strong>Independent Software Developer</strong> passionate about building robust, high-performance applications and solving complex architectural challenges. I bridge the gap between software and hardware, believing in clean code, continuous learning, and turning ideas into scalable reality.
   </p>
 </div>
 
@@ -17,16 +17,29 @@
 <div align="center">
 
 #### 💻 Programming Languages
-| | | | | |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> |
-| **C++** | **Java** | **Kotlin** | **Go** | **Python** |
+| | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> |
+| **C++** | **C** | **Java** | **Kotlin** | **Go** | **Python** |
 
-#### 🛠️ Tools & Ecosystem
+#### 🤖 Hardware & Robotics
+| | | |
+|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> |
+| **Arduino** | **Raspberry Pi** | **Embedded Linux** |
+
+#### 🎮 Game Development
+*(Удалите ненужный движок, оставьте только тот, с которым работаете)*
+| | |
+|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> |
+| **Unity** | **Unreal Engine** |
+
+#### 🛠️ Tools & Infrastructure
 | | | | | |
 |:-:|:-:|:-:|:-:|:-:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> |
-| **PostgreSQL** | **Docker** | **Linux** | **Git** | **GraphQL** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> |
+| **PostgreSQL** | **Docker** | **Git** | **GraphQL** | **VS Code** |
 
 </div>
 
@@ -35,8 +48,9 @@
 ### 🎯 Current Focus
 - 🏗️ Designing **scalable microservices** and robust system architectures.
 - ⚡ Optimizing **performance and concurrency** using Go and C++.
+- 🤖 Bridging software and hardware: building **IoT solutions, custom electronics, and robotics**.
+- 🎮 Developing immersive **game mechanics** and interactive experiences.
 - ☁️ Embracing **Cloud-Native** development and CI/CD automation.
-- 🚀 Writing **clean, maintainable, and well-documented code**.
 
 ---
 
@@ -68,5 +82,5 @@
 <br/>
 
 <div align="center">
-  <em>"First, solve the problem. Then, write the code."</em> – John Johnson
+  <em>"The best way to predict the future is to invent it." – Alan Kay</em>
 </div>
