@@ -29,7 +29,6 @@
 | **Arduino** | **Raspberry Pi** | **Embedded Linux** |
 
 #### 🎮 Game Development
-*(Удалите ненужный движок, оставьте только тот, с которым работаете)*
 | | |
 |:-:|:-:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50" height="50" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));"/> |
