@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Yerkebulan;Solo+Software+Developer;Crafting+Scalable+Systems;C+++%7C+Java+%7C+Kotlin+%7C+Go+%7C+Python;Hardware+%26+Game+Dev+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+:Madonna777;Solo+Software+Developer;Crafting+Scalable+Systems;C+++%7C+Java+%7C+Kotlin+%7C+Go+%7C+Python;Hardware+%26+Game+Dev+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -56,8 +56,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yessenali-Yerkebulan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Yerkebulan's GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yessenali-Yerkebulan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Madonna777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Madonna777's GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madonna777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
 </div>
 
 <br/>
@@ -67,8 +67,8 @@
 ### 📬 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/Yessenali-Yerkebulan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Yessenali--Yerkebulan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Madonna777" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Madonna777-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:your-email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
